@@ -212,7 +212,7 @@ class Template extends React.Component {
                     data-jumbo="Instant Response"
                     data-fl="bq"
                     data-city="bangalore"
-                    data-hotd=""
+                    data-hotd="10035073"
                     data-avtar="https://s3.ap-south-1.amazonaws.com/chainsite/nandhana-hotels/nandhana-short.jpg"
                     data-img="https://www.holidaysat.com/gallery/The-Leela-Palace-Chennai-03.jpg"
                     data-cityd="6053307"
