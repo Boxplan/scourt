@@ -197,7 +197,7 @@ class Template extends React.Component {
                 <Menu onToggleMenu={this.handleToggleMenu} />
                 <div className='cleanslate'>
                 <div
-                    data-start="123"
+                    data-start="What Event are you planning ?"
                     data-greet="Shibravyi Courtyard"
                     data-float="1"
                     data-vendorMail=""
