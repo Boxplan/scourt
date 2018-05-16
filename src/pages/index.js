@@ -45,15 +45,19 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-12.jpg)`}}>
                             <header className="major">
-                                <h3>Courtyard</h3>
-                                <p>Capacity Between 200 - 300 Guests</p>
+                                <h3>Packages</h3>
+                                <p>4 Hour Rental Available</p>
+                                <p>8 Hour Rental Available</p>
+                                <p>24 Hour Rental Available</p>
                             </header>
                             <Link to="/images" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-11.jpg)`}}>
                             <header className="major">
-                                <h3>Marquee Tent</h3>
-                                <p>Capacity Between 500 - 1500 Guests</p>
+                                <h3>Capacity Info</h3>
+                                <p>Courtyard 100-200 Guests</p>
+                                <p>Courtyard and Pavilion 100-300 Guests</p>
+                                <p>Courtyard Pavilion with Outdoor Lawn 300-1500 Guests</p>
                             </header>
                             <Link to="/images" className="link primary"></Link>
                         </article>
