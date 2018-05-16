@@ -197,18 +197,18 @@ class Template extends React.Component {
                 <Menu onToggleMenu={this.handleToggleMenu} />
                 <div className='cleanslate'>
                 <div
-                    data-start="We have 12 Venues. Select one to get started"
-                    data-greet="Nandhana Banquets"
+                    data-start="123"
+                    data-greet="Shibravyi Courtyard"
                     data-float="1"
                     data-vendorMail=""
                     data-light="#EEF2F5"
                     data-primary="#F3306B"
                     data-topic="gatsbytopical"
                     data-ich="2"
-                    data-widget="I am Online"
+                    data-widget="Get Quote"
                     data-altone=""
                     data-alttwo="I am Online"
-                    data-justgyan="We have 12 Venues. Select one to get started"
+                    data-justgyan=""
                     data-jumbo="Instant Response"
                     data-fl="bq"
                     data-city="bangalore"
@@ -216,7 +216,7 @@ class Template extends React.Component {
                     data-avtar="https://s3.ap-south-1.amazonaws.com/chainsite/nandhana-hotels/nandhana-short.jpg"
                     data-img="https://www.holidaysat.com/gallery/The-Leela-Palace-Chennai-03.jpg"
                     data-cityd="6053307"
-                    data-bt="19"
+                    data-bt="87"
                     id="bot">
                 </div>
                 </div>

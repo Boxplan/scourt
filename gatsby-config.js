@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Banquetbot",
+    title: "Shibravyi Courtyard",
     author: "Banquetbox",
-    description: "Banquetbot is an automated assitant with high banquet quotient"
+    description: "Shibravyi Courtyard"
   },
   pathPrefix: '/',
   plugins: [
@@ -13,7 +13,7 @@ module.exports = {
         name: "posts",
       },
     },
-      {
+      /*{
           resolve: `gatsby-plugin-nprogress`,
           options: {
               // Setting a color is optional.
@@ -21,7 +21,7 @@ module.exports = {
               // Disable the loading spinner.
               showSpinner: true,
           },
-      },
+      },*/
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -29,7 +29,7 @@ module.exports = {
         path: `${__dirname}/src/assets/images`,
       },
     },
-    {
+    /*{
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -42,9 +42,9 @@ module.exports = {
           "gatsby-remark-copy-linked-files",
         ],
       },
-    },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+    },*/
+  //  `gatsby-transformer-sharp`,
+  //  `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`
   ],

@@ -21,38 +21,43 @@ class HomeIndex extends React.Component {
 
 
     render() {
-        const siteTitle = this.props.data.site.siteMetadata.title;
-        const siteDescription = this.props.data.site.siteMetadata.description;
+       // const siteTitle = this.props.data.site.siteMetadata.title;
+       // const siteDescription = this.props.data.site.siteMetadata.description;
       //  const wWidth = window.innerWidth;
       //  const wHeight = window.innerHeight;
 
         return (
             <div>
                 <Helmet>
-                    {/*<title>{siteTitle}</title>
-                    <meta name="description" content={siteDescription} />*/}
-                    <title>Banquet Hall</title>
-                    <meta name="description" content='A multi property Banquet chain with halls, Wedding Venues.' />
-
+                    <title>Shibravyi Courtyard Wedding Venue</title>
+                    <meta name="description" content='Traditional Outdoor Wedding Venue, Lawn and Banquet Hall off Kanakapura Road, South Bangalore ' />
                 </Helmet>
 
                 <div id="main" >
                     <section className="tiles">
                         <article>
                             <header className="major">
-                                <h3>Venues</h3>
-                                <p>4 Banquet halls. Between 100 - 300 Guests</p>
+                                <h3>Shibravyi Courtyard Wedding Venue</h3>
+                                <p>Shibravyi, A courtyard home, with sprawling gardens, terracotta tiled pavilions and more. A perfect setting for outdoor and indoor events.</p>
+
                             </header>
                             <Link to="/venues" className="link primary"></Link>
                         </article>
-                        <article style={{backgroundImage:`url(https://www.whatsuplife.in/noida/blog/wp-content/uploads/2016/11/Banquet-Hall.jpg)`}}>
+                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-12.jpg)`}}>
                             <header className="major">
-                                <h3>Packages</h3>
-                                <p>From Rs.600 per head onwards</p>
+                                <h3>Courtyard</h3>
+                                <p>Capacity Between 200 - 300 Guests</p>
                             </header>
                             <Link to="/images" className="link primary"></Link>
                         </article>
-                        <article style={{backgroundImage:`url(https://www.theleela.com/contentAsset/image/0ffc040b-4db7-4f80-b38e-3f8efc708540/fileAsset/h/300)`}}>
+                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-11.jpg)`}}>
+                            <header className="major">
+                                <h3>Marquee Tent</h3>
+                                <p>Capacity Between 500 - 1500 Guests</p>
+                            </header>
+                            <Link to="/images" className="link primary"></Link>
+                        </article>
+                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-13.jpg`}}>
                             <header className="major">
                                 <h3>Gallery</h3>
                                 <p>Images, Virtual Tour</p>
