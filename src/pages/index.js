@@ -43,38 +43,49 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/venues" className="link primary"></Link>
                         </article>
+
                         <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-12.jpg)`}}>
                             <header className="major">
                                 <h3>Packages</h3>
-                                <p>4 Hour Rental Available</p>
-                                <p>8 Hour Rental Available</p>
-                                <p>24 Hour Rental Available</p>
+                                <p>4 | 8 | 24 Hour Rental Package Available</p>
+
                             </header>
-                            <Link to="/images" className="link primary"></Link>
+                            <Link to="/packages" className="link primary"></Link>
                         </article>
+
                         <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-11.jpg)`}}>
                             <header className="major">
                                 <h3>Capacity Info</h3>
-                                <p>Courtyard 100-200 Guests</p>
-                                <p>Courtyard and Pavilion 100-300 Guests</p>
-                                <p>Courtyard Pavilion with Outdoor Lawn 300-1500 Guests</p>
+                                <p>Shibravyi has 2 halls which can accommodate from 100 to 1500 Guests</p>
                             </header>
-                            <Link to="/images" className="link primary"></Link>
+                            <Link to="/capacity" className="link primary"></Link>
                         </article>
+
                         <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-13.jpg`}}>
                             <header className="major">
                                 <h3>Gallery</h3>
                                 <p>Images, Virtual Tour</p>
                             </header>
-                            <Link to="/recent-events" className="link primary"></Link>
+                            <Link to="/images" className="link primary"></Link>
                         </article>
-                        <article>
+                        <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-unspecified-15.jpeg`}}>
                             <header className="major">
                                 <h3>Recent Events</h3>
                                 <p>Weddings, Family Events, Parties</p>
                             </header>
-                            <Link to="/packages" className="link primary"></Link>
+                            <Link to="/recent-events" className="link primary"></Link>
                         </article>
+
+                        <article>
+                            <header className="major">
+                                <h3>Contact Us</h3>
+                                <p>Shibravyi Courtyard | Kanakapura Road | Bangalore | +91 80 30695111</p>
+
+
+                            </header>
+                            <Link to="/venues" className="link primary"></Link>
+                        </article>
+
                     </section>
                 </div>
             </div>

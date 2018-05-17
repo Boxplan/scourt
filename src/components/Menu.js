@@ -5,11 +5,11 @@ const Menu = (props) => (
     <nav id="menu">
         <div className="inner">
             <ul className="links">
-                <li><Link onClick={props.onToggleMenu} to="/">Nandhana</Link></li>
-                <li><Link onClick={props.onToggleMenu} to="/nandhana-bangalore">Bangalore</Link></li>
-                <li><Link onClick={props.onToggleMenu} to="/nandhana-chennai">Chennai</Link></li>
-                <li><Link onClick={props.onToggleMenu} to="/nandhana-new-delhi">New Delhi</Link></li>
-                <li><Link onClick={props.onToggleMenu} to="/nandhana-mumbai">Mumbai</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/">Home</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/packages">Packages</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/capacity">Capacity Info</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/images">Image Gallery</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/recent-events">Reviews</Link></li>
             </ul>
             {/*<ul className="actions vertical">
                 <li><a href="http://palmshorebanquets.com" target="_blank" className="button special fit">Live Demo</a></li>

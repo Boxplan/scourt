@@ -7,19 +7,18 @@ import pic11 from '../assets/images/pic11.jpg'
 const Generic = (props) => (
     <div>
         <Helmet>
-            <title>Nandhana Bangalore</title>
-            <meta name="Nandhana Bangalore" content="Nandhana Bangalore" />
+            <title>Shibravyi Courtyard</title>
+            <meta name="Shibravyi Courtyard" content="Shibravyi Courtyard" />
         </Helmet>
 
         <div id="main" className="alt">
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h1>Nandhana Bangalore</h1>
+                        <h1>Shibravyi Courtyard</h1>
                     </header>
-                    <p>Banquet inventory management ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-                    <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+                    <p>Shibravyi is a courtyard home, with sprawling gardens, terracotta tiled pavilions and more. A perfect setting for outdoor &amp; indoor events.  Shibravyi hosts a number of social functions such as weddings, birthdays, naming ceremonies and other social events. Shibravyi has a hall capacity of 800 and more than 1000 floating guests and Dinning Capacity 250 guests at once. The ambience of the location pleases everyone with its lush green environment.  The pleasant surrounding is best suited for all marriages and other family occasions.  Shibravyi  is best suitable for your wedding.</p>
+
                 </div>
             </section>
         </div>

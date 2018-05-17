@@ -213,7 +213,7 @@ class Template extends React.Component {
                     data-fl="bq"
                     data-city="bangalore"
                     data-hotd="10035073"
-                    data-avtar="https://s3.ap-south-1.amazonaws.com/chainsite/nandhana-hotels/nandhana-short.jpg"
+                    data-avtar="https://s3.ap-south-1.amazonaws.com/chainsite/shibravyi/shibravyi-small.png"
                     data-img="https://www.holidaysat.com/gallery/The-Leela-Palace-Chennai-03.jpg"
                     data-cityd="6053307"
                     data-bt="87"
