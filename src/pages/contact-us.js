@@ -15,11 +15,12 @@ const Generic = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h1>Shibravyi Courtyard</h1>
+                        <h1>Contact Us</h1>
                     </header>
-                    <p>Shibravyi is a courtyard home, with sprawling gardens, terracotta tiled pavilions and more. A perfect setting for outdoor &amp; indoor events.  Shibravyi hosts a number of social functions such as weddings, birthdays, naming ceremonies and other social events. Shibravyi has a hall capacity of 800 and more than 1000 floating guests and Dinning Capacity 250 guests at once. The ambience of the location pleases everyone with its lush green environment.  The pleasant surrounding is best suited for all marriages and other family occasions.  Shibravyi  is best suitable for your wedding.</p>
+                    <p>No. 107, BM Kaval, Kengeri Hobli, Thalagahttapura Post, Kanakpura Road, Kengeri, Bangalore-560062</p>
+                    <p>+91 80 30695111</p>
 
-                </div>
+                    </div>
             </section>
         </div>
 

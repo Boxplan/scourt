@@ -78,12 +78,10 @@ class HomeIndex extends React.Component {
 
                         <article>
                             <header className="major">
-                                <h3>Contact Us</h3>
-                                <p>Shibravyi Courtyard | Kanakapura Road | Bangalore | +91 80 30695111</p>
-
-
+                                <h3>+91 80 30695111</h3>
+                                <p>Address | Location</p>
                             </header>
-                            <Link to="/venues" className="link primary"></Link>
+                            <Link to="/contact-us" className="link primary"></Link>
                         </article>
 
                     </section>
