@@ -261,7 +261,8 @@ class Template extends React.Component {
                     onError={()=> console.log('script error')}
                     onLoad={()=> this.setState({loadScriptthree:true})}
                 />}
-                {loadingActive && <div style={{position:'absolute', right: 200, top:200, height:100, color: '#FFF'}}>
+               /* May 18 : loading gif is disabled. observe for errors..
+               {loadingActive && <div style={{position:'absolute', right: 200, top:200, height:100, color: '#FFF'}}>
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"  x="0px" y="0px"
                         width="24px" height="30px" viewBox="0 0 24 30">
                         <rect x="0" y="0" width="4" height="20" fill="#FFF">
@@ -277,7 +278,7 @@ class Template extends React.Component {
                             </rect>
                         </svg>
                     </div>
-                }
+                }*/
 
             </div>
         )
