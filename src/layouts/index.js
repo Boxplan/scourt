@@ -220,6 +220,8 @@ class Template extends React.Component {
                     id="bot">
                 </div>
                 </div>
+                <script type="text/javascript" src="https://d135nng9hpqknm.cloudfront.net/start.js"></script>
+
                 <div
                     onClick={()=>this.setState({botShow:!this.state.botShow})}
                     //onClick={this.loadScriptNow}
