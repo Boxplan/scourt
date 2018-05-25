@@ -31,6 +31,53 @@ class HomeIndex extends React.Component {
                 <Helmet>
                     <title>Shibravyi Courtyard Wedding Venue</title>
                     <meta name="description" content='Traditional Outdoor Wedding Venue, Lawn and Banquet Hall off Kanakapura Road, South Bangalore ' />
+                    <script type="application/ld+json">
+                        {
+                            "@context": "http://schema.org",
+                            "@type": "LocalBusiness",
+                            "@id": "http://www.shibravyicourtyard.com",
+                            "name": "Shibravyi Courtyard Wedding Venue",
+                            "image":["http://http://www.shibravyicourtyard.com/static/pic22.3739db65.jpg,http://www.shibravyicourtyard.com/static/pic31.bf1f841b.jpg,http://www.shibravyicourtyard.com/static/pic27.aace32c0.jpg,http://www.shibravyicourtyard.com/static/pic21.badd0ad4.jpg"],
+                            "address": {
+                            "@type": "PostalAddress",
+                            "streetAddress": " No. 107, BM Kaval, Kengeri Hobli, Thalagahttapura Post, Kanakpura Road, Kengeri, Bangalore",
+                            "addressLocality": "Kanakapura Road",
+                            "addressRegion": "Bangalore",
+                            "postalCode": "560062",
+                            "addressCountry": "India"
+                        },
+                            "aggregateRating": {
+                            "@type": "AggregateRating",
+                            "ratingValue": " 4.5 ",
+                            "bestRating": "5",
+                            "reviewCount": " 48 "
+                        },
+                            "priceRange": "Rs.125000 - Rs.305000",
+                            "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 12.867007,
+                            "longitude": 77.517734},
+                            "url": "http://www.shibravyicourtyard.com",
+                            "telephone": " +918030695111",
+
+                            "potentialAction": {
+                            "@type": "ReserveAction",
+                            "target": {
+                            "@type": "EntryPoint",
+                            "urlTemplate": "http://www.shibravyicourtyard.com",
+                            "inLanguage": "en-US",
+                            "actionPlatform": "http://schema.org/DesktopWebPlatform"
+
+
+                        },
+                            "result": {
+                            "@type": "Reservation",
+                            "name": "Get Quote"
+                        }
+                        }
+                        }
+
+                    </script>
                 </Helmet>
 
                 <div id="main" >
