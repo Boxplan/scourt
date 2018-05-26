@@ -206,7 +206,7 @@ class Template extends React.Component {
                     data-light="#EEF2F5"
                     data-primary="#F3306B"
                     data-topic="gatsbytopical"
-                    data-ich="2"
+                    data-ich="1"
                     data-widget="Get Quote"
                     data-altone=""
                     data-alttwo="Get Quote"
