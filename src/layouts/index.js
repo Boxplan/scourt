@@ -222,8 +222,8 @@ class Template extends React.Component {
                     id="bot">
                 </div>
                 <script type="text/javascript" src="https://d135nng9hpqknm.cloudfront.net/start.js"></script>
-
-                <div
+                /*June 05 : Below bot launcher commented out byu James*/
+                /*<div
                     onClick={()=>this.setState({botShow:!this.state.botShow})}
                     //onClick={this.loadScriptNow}
                     id='teaser'
@@ -251,7 +251,7 @@ class Template extends React.Component {
                     {teaserText}
                     <div id="ringring" onClick={()=>this.setState({botShow:!this.state.botShow})}></div>
                     <div id="circle"   onClick={()=>this.setState({botShow:!this.state.botShow})}></div>
-                </div>
+                </div>*/
                 {loadScript && <Script
                     url="https://d11vt4zh4oro3q.cloudfront.net/master.js"
                     onCreate={this.onCreateIndicate}
