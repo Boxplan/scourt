@@ -77,7 +77,7 @@ class HomeIndex extends React.Component {
         return (
             <div>
                 <Helmet>
-                    <title>Wings Banquet Hall</title>
+                    <title>Shibravyi Courtyard</title>
                     <meta name="description" content='Traditional Outdoor Wedding Venue, Lawn and Banquet Hall off Kanakapura Road, South Bangalore ' />
                     <script type="application/ld+json">
                         {JSON.stringify(schemaOrgJsonLd)}
