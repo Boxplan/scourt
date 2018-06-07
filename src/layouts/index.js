@@ -214,7 +214,7 @@ class Template extends React.Component {
                     data-city="bangalore"
                     data-hotd="10035073"
                     data-avtar="https://s3.ap-south-1.amazonaws.com/chainsite/shibravyi/shibravyi-small.png"
-                    data-img="https://www.holidaysat.com/gallery/The-Leela-Palace-Chennai-03.jpg"
+                    data-img="https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-12.jpg"
                     data-cityd="6053307"
                     data-bt="87"
                     id="bot">
