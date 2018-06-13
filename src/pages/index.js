@@ -115,7 +115,7 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage:`url(https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-13.jpg`}}>
                             <header className="major">
                                 <h3>Gallery</h3>
-                                <p>Images, Virtual Tour</p>
+                                <p>Images gallery</p>
                             </header>
                             <Link to="/images" className="link primary"></Link>
                         </article>

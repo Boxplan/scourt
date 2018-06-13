@@ -22,7 +22,7 @@ const Generic = (props) => (
     <div>
         <Helmet>
             <title>Courtyard</title>
-            <meta name="description" content="Nandhana Chennai" />
+            <meta name="description" content="Image gallery" />
         </Helmet>
 
         <div id="main" className="alt">
