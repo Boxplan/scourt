@@ -7,7 +7,7 @@ import pic11 from '../assets/images/pic11.jpg'
 const Generic = (props) => (
     <div>
         <Helmet>
-            <title>Shibravyi Courtyard</title>
+            <title>Shibravyi Courtyard Wedding Venue Contact Detail</title>
             <meta name="description" content="No. 107, BM Kaval, Kengeri Hobli, Thalagahttapura Post, Kanakpura Road, Kengeri, Bangalore-560062" />
         </Helmet>
 

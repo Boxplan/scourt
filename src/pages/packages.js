@@ -7,7 +7,7 @@ import pic11 from '../assets/images/pic11.jpg'
 const Generic = (props) => (
     <div>
         <Helmet>
-            <title>Shibravyi Courtyard Package</title>
+            <title>Shibravyi Courtyard Wedding Venue Package</title>
             <meta name="description" content="rental for Courtyard and Pavilion" />
         </Helmet>
 
@@ -15,7 +15,7 @@ const Generic = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                    <h1>Packages</h1>
+                    <h1>Shibravyi Courtyard Wedding Venue Package</h1>
                     </header>
                     <p>Rs. 125000 | 8 Hour rental for Courtyard and Pavilion | Venue is extended for 8 hrs on an exclusive basis</p>
                     <p>Rs. 265000 | 24 hour rental for Courtyard and Pavilion | Venue is extended on an exclusive basis for 24 hours</p>
