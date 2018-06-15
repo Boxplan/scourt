@@ -29,9 +29,9 @@ const Generic = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h1>Courtyard and Pavilion</h1>
+                        <h1>Image Gallery</h1>
                     </header>
-
+                    <h3>Courtyard and Pavilion</h3>
                     <span className="image main"><img src={pic23} alt="" /></span>
                     <span className="image main"><img src={pic24} alt="" /></span>
                     <span className="image main"><img src={pic25} alt="" /></span>
@@ -49,7 +49,7 @@ const Generic = (props) => (
                 </div>
                 <div className="inner">
                     <header className="marquee">
-                        <h1>Marquee Tent</h1>
+                        <h3>Marquee Tent</h3>
                     </header>
                     <span className="image main"><img src={pic21} alt="" /></span>
                     <span className="image main"><img src={pic22} alt="" /></span>

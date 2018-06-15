@@ -7,8 +7,8 @@ import pic11 from '../assets/images/pic11.jpg'
 const Generic = (props) => (
     <div>
         <Helmet>
-            <title>Shibravyi Courtyard</title>
-            <meta name="description" content="recent events" />
+            <title>Shibravyi Courtyard Wedding Venue Recent Events</title>
+            <meta name="description" content="Shibravyi courtyard wedding venue recent events" />
         </Helmet>
 
         <div id="main" className="alt">

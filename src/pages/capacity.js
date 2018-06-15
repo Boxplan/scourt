@@ -15,7 +15,7 @@ const Generic = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                    <h1>Shibravyi Courtyard Wedding Venue Capacity</h1>
+                    <h1>Venue Capacity</h1>
                     </header>
                     <h3>Courtyard Pavilion</h3>
                     <p>Theater Style - 100px</p>
