@@ -199,14 +199,14 @@ class Template extends React.Component {
                 <div
                     data-start="What Event are you planning ?"
                     data-greet="Shibravyi Courtyard"
-                    data-float="1"
+                    data-float=""
                     data-vendorMail=""
                     data-light="#EEF2F5"
                     data-primary="#F3306B"
-                    data-topic="gatsbytopical"
+                    data-topic="topical-banquet"
                     data-ich="1"
                     data-widget="Get Quote"
-                    data-altone="svb"
+                    data-altone="corner"
                     data-alttwo="Get Quote"
                     data-justgyan=""
                     data-jumbo="Instant Response"
@@ -219,7 +219,7 @@ class Template extends React.Component {
                     data-bt="87"
                     id="bot">
                 </div>
-                        <script type='text/javascript'src='https://d135nng9hpqknm.cloudfront.net/start.js'></script>
+                        <script src="https://d135nng9hpqknm.cloudfront.net/start.js"></script>
                 <div
                     onClick={()=>this.setState({botShow:!this.state.botShow})}
                     //onClick={this.loadScriptNow}
