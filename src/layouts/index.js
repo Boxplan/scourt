@@ -216,6 +216,7 @@ class Template extends React.Component {
                     data-avtar="https://s3.ap-south-1.amazonaws.com/chainsite/shibravyi/shibravyi-small.png"
                     data-img="https://s3-ap-southeast-1.amazonaws.com/vsimg1/propimages/Banquet-Hall-at-Shibravyi-Courtyard-12.jpg"
                     data-cityd="6053307"
+                    data-wanumber="919535053096"
                     data-bt="87"
                     id="bot">
                 </div>
